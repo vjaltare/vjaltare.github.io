@@ -1,42 +1,43 @@
-- title: General Information
+- title: Curriculum Vitae
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vikrant Ravindra Jaltare
+    # - name: Date of Birth
+    #   value: 23rd March 1998
     - name: Languages
-      value: English, German
+      value: English, German, Marathi, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: C.Phil
+      institution: University of California San Diego
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Advanced to Candidacy.
+        - Focus in Efficient AI and Neuromorphic Computing
+        - title: Thesis areas
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Efficient brain-inspired algorithms for Neuromorphic hardware.
+            - Learning rules in the cortico-hippocampal circuit.
+    - title: Bachelor of Technology
+      institution: College of Engineering Pune
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Electrical Engineering with Minor in Computer Science.
+        - Stood 3rd in the department.
+        - CGPA 8.95/10
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student (PhD)
+      institution: University of California San Diego
+      year: 2021 - present
       description:
-        - Description 1.
-        - Description 2.
+        - Graduate Student Researcher in Department of Bioengineering.
+        - 
         - title: Description 3.
           contents:
             - Sub-description 1.
