@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vjaltare
+  - Integrated-Systems-Neuroengineering
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - vjaltare/hopfield-network-MNIST-puppies
+  - vjaltare/er_and_plasticity_in_ca1_spine
+  - vjaltare/hippocampus-predictive-coding
+
