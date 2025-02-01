@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- PhD Candidate in Bioengineering, _University of California San Diego, CA_ (2021 -- present)
+- BTech in Electrical Engineering, _College of Engineering Pune, India_ (2016 -- 2020)
 
-Work experience
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
