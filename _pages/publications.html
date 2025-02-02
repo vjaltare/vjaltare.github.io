@@ -20,7 +20,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        {{ category[1].title }}<hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -33,4 +33,20 @@ author_profile: true
 {% endif %}
 
 
+<!-- ---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for pub in site.data.publications %}
+  <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
+  <p><strong>Venue:</strong> {{ pub.venue }} | <strong>Year:</strong> {{ pub.date }}</p>
+{% endfor %} -->
