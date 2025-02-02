@@ -9,7 +9,7 @@ redirect_from:
 
 Hey there! 👋🏽
 
-I'm a bioengineering PhD candidate at UC San Diego. As a PhD student I'm interested in using architectural and learning strategies in brain microcircuits and translating them to building resource-efficient AI. My scientific interests are brodly to understand and utilize decision-making in AI to tackle problems in healthcare and climate change. I'm also interested in studying student perceptions of university-level STEM instruction and to that extent formulating more equitable curricula. Outside work I can be found hiking the beautiful hills and trails of San Diego, learning new recipes and occasionally playing guitar! 🏞️🎸
+I'm a bioengineering PhD candidate at UC San Diego working with <a href = "https://isn.ucsd.edu/index.php">Dr. Gert Cauwenberghs </a> and co-mentored by <a href = "https://cnl.salk.edu/People/">Dr. Terrence Sejnowski</a>. As a PhD student I'm interested in using architectural and learning strategies in brain microcircuits and translating them to building resource-efficient AI. My scientific interests are brodly to understand and utilize decision-making in AI to tackle problems in healthcare and climate change. I'm also interested in studying student perceptions of university-level STEM instruction and to that extent formulating more equitable curricula. Outside work I can be found hiking the beautiful hills and trails of San Diego, learning new recipes and occasionally playing guitar! 🏞️🎸
 
 
 

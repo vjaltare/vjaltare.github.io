@@ -14,31 +14,31 @@ Education
 - PhD Candidate in Bioengineering, _University of California San Diego, CA_ (2021 -- present)
 - BTech in Electrical Engineering, _College of Engineering Pune, India_ (2016 -- 2020)
 
-Research Experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Programming
+  - Python
+  - MATLAB
+  - C
+  - C++
+  - HTML/CSS/JS
+- Tools
+  - [ML Tools] JAX, PyTorch, TensorFlow
+  - MS Office
+  - LaTeX
+- Theory
+  - Theoretical Deep Learning
+  - Probabilistic Graph Networks
+  - Bayesian Inference
+  - Recommendation Systems
+  - Computational Neuroscience 
+  - Dynamical Systems and biophysics
+
+Research Experience
+======
+- Ph.D. Candidate, _UC San Diego_, Department of Bioengineering (2021 - present)
+- Research Assistant, <a href="https://sites.google.com/view/computationalneurobiologylab/people?authuser=0">_IISER Pune_ </a>, India (2019 - 2021)
+
 
 Publications
 ======
@@ -46,18 +46,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+- Chair, Mentorship Committee, <a href = "https://www.facebook.com/BioeGradsUCSD">_BEGS_ </a> (2021 - 2023)
