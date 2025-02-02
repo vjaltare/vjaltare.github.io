@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](/files/VJ_CV_Feb2025.pdf)
+
 Education
 ======
 - PhD Candidate in Bioengineering, _University of California San Diego, CA_ (2021 -- present)
