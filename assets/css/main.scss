@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.pdf-link {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #007acc;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .pdf-link:hover {
+    background-color: #005fa3;
+  }
+  

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Vikrant Jaltare"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vikrant Jaltare"
 description              : &description "personal description"

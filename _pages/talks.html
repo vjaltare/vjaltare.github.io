@@ -14,3 +14,32 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<!-- ---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
+
+{% for post in site.talks reversed %}
+  <div class="archive-item">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>
+      <strong>Type:</strong> {{ post.type }} |
+      <strong>Venue:</strong> {{ post.venue }} |
+      <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}
+    </p>
+    <p>{{ post.excerpt }}</p>
+    {% if post.pdf %}
+    <p>
+      <a href="{{ post.pdf }}" target="_blank" rel="noopener noreferrer" class="pdf-link">Download Poster (PDF)</a>
+    </p>
+    {% endif %}
+  </div>
+{% endfor %} -->
+
