@@ -1,7 +1,5 @@
 ---
-title: 'Judging a Book by its Cover: Book Rating and Would-Read
-Predictions using Historical trends, Temporal trends and Latent
-Factor Models'
+title: 'Judging a Book by its Cover: Book Rating and Would-Read Predictions using Historical trends, Temporal trends and Latent Factor Models'
 date: 2025-02-06
 permalink: /posts/2025/02/book-recommendation/
 tags:
